@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c15d8b10776caf4bac18039a73411a2, type: 3}
+  m_Name: BigBoy_2
+  m_EditorClassIdentifier: 
+  NameBonus: Big Boy
+  Description: Critical Hit with a 0.2% chance restores life with a 0.2% chance restores
+    life
+  BonusImage: {fileID: 21300000, guid: 449d22342576f0046aa7aad7fddd592a, type: 3}
+  Frame: {fileID: 21300000, guid: a0f4eee28a606a54e99d75d901f8088b, type: 3}
+  SaveCurrentBonus:
+    improvements: 4
+    RangeToSelectionBonus: 1
